@@ -1,5 +1,5 @@
 ##SSX Revision, will update beginning to fit python scripting
-Part 1: Get SNP numbers
+Part 1: Get SNP numbers with MAF 0.01 to 0.5 (somatic mutation for ethnic (caucasian) genetic variation snps)
 
 Use a preselected list of SNPs and PSST to create fasta file with SNPs
 
